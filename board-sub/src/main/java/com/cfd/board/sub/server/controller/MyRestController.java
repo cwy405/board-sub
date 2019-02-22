@@ -1,4 +1,4 @@
-package com.cfd.board.sub.controller;
+package com.cfd.board.sub.server.controller;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.cfd.board.sub.util.Result;
+import com.cfd.board.sub.server.util.Result;
 
 @RestController
 public class MyRestController {

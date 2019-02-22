@@ -1,4 +1,4 @@
-package com.cfd.board.sub.util;
+package com.cfd.board.sub.server.util;
 
 import java.util.HashMap;
 import java.util.Map;
